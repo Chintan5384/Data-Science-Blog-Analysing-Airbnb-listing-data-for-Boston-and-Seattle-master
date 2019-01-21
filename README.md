@@ -17,14 +17,21 @@ Are you interested in knowing how Hosts set rent price? or does your order worth
 data is everything, lets prepare it better to get insights.
 I have used Boston Airbnb listings and Seattle Airbnb listings data which can be downloaded from insideairbnb portal, I will follow CRISP-DM methodology get insights from the data.
 
+![GitHub Logo](/images/boston and seattle.png)
+
 The CRISP-DM Process (Cross Industry Process for Data Mining)
 CRISP-DM stands for cross-industry process for data mining. The CRISP-DM methodology provides a structured approach to planning a data mining project. 
 
 #### lets go through price distribution for Boston and Seattle.
+![GitHub Logo](/images/boston_price_distribution.png)
 
 from the data, Boston has almost 6036 listings with average cost $184/night where as Seattle has 8494 listings with an average cost of $152/night. if we dig more in details its clear that 75% of Boston listings lies below $219/night while 75% of Seattle listings lies below $189/night which indicates the rental price for Airbnb in Seattle is comparatively affordable than in Boston.
 
+![GitHub Logo](/images/seattle_price_distribution.png)
+
 Most expensive, The most expensive listing in Boston is $3999/night while in Seattle the most expensive one is $5400/night, where least expencive data seems inacurate with value 0 for boston and seatele.
+
+![GitHub Logo](/images/bost_seatt_stat.png)
 
 Airbnb hosts can list entire homes/apartments (red), private (green) or shared rooms (blue). 
 Hosts listed their room type as 62.2%, 36.6% and 1.2% respectively for the above three room types in Boston, where as in Seattle the room type percentage range goes on 66.6%, 30.4% and 3.1% respectively.
@@ -40,10 +47,12 @@ Lets get insights of predictions made by our model
 Based on our production we would be able to find-out that Airbnb has more amenities listed in Seattle (168) than Boston (120).
 
 ### Important Felicities : Boston
+![GitHub Logo](/images/fecility_boston.png)
 Family/kid friendly, Pool, TV, Internet, Elevator, Lock-box, hangers, Laptop friendly work-space and Pets Allowed.
 We can see if you have a pool in your property, you might have more confident to raise your rental price.
 
 ### Important Felicities : Seattle
+![GitHub Logo](/images/fecility_seattle.png)
 First Aid Kit, Carbon monoxide detector, Private entrance, Air conditioning, Iron, Internet, Cable TV, 24 Hour Check-in, safety card.
 We can see the importance of amenities are not as high as other features in the last section. As there are more than 100 amenities provided by the hosts and most of them are always provided as they are needed.
 
