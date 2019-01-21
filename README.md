@@ -2,7 +2,7 @@
 
 ## Get some insights of Boston and Seattle Airbnb listing Data
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/images/boston_seattle_airbnb_title.png)
 
 ### Introduction
 Airbnb operates an online hospitality service which is accessible via its websites and mobile apps, Its quite popular platform for travellers, one can use the service to arrange or offer lodging, primarily home-stays, or tourism experiences.
