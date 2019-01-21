@@ -62,5 +62,7 @@ Gathered the Boston and Seattle Airbnb data
 - https://www.kaggle.com/airbnb/seattle/data#listings.csv
 - https://www.kaggle.com/airbnb/boston#listings.csv
 
+please visit git hub project here [Project_Write_A_Data_Science_Blog](https://github.com/Chintan5384/Project_Write_A_Data_Science_Blog)
+
 #### recap : 
-we did comparison of the two data sets Boston and Seattle then developed a machine learning model to predict the rental price for Boston and Seattle, after that we examined feature importance of the trained model and check for usability of them and Listed down important felicities to get a clear understanding how service provider can make more money by providing better felicities to customer by understanding the need.
+We did comparison of the two data sets Boston and Seattle then developed a machine learning model to predict the rental price for Boston and Seattle, after that we examined feature importance of the trained model and check for usability of them and Listed down important felicities to get a clear understanding how service provider can make more money by providing better felicities to customer by understanding the need.
