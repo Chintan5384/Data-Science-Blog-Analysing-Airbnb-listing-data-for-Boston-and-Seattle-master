@@ -27,7 +27,7 @@ CRISP-DM stands for cross-industry process for data mining. The CRISP-DM methodo
 
 from the data, Boston has almost 6036 listings with average cost $184/night where as Seattle has 8494 listings with an average cost of $152/night. if we dig more in details its clear that 75% of Boston listings lies below $219/night while 75% of Seattle listings lies below $189/night which indicates the rental price for Airbnb in Seattle is comparatively affordable than in Boston.
 
-![GitHub Logo](/images/seattle_price_distribution.png)
+![GitHub Logo](/images/seattle price distribution.png)
 
 Most expensive, The most expensive listing in Boston is $3999/night while in Seattle the most expensive one is $5400/night, where least expencive data seems inacurate with value 0 for boston and seatele.
 
